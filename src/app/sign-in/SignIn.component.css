@@ -1,0 +1,13 @@
+.single{
+    font-size: 18px;
+    background-color: white;
+}
+.forCenter{
+    margin: -10px -60px; 
+    position:relative;
+    top:10%; 
+    left:48%;
+}
+.heading{
+    text-align: center;
+}
